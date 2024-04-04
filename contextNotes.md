@@ -102,6 +102,7 @@ export default function Card() {
 }
 
 ```
+
 ## App UI
 
 ```javascript
